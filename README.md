@@ -1,3 +1,4 @@
+   AUTHOR: DEEKSHA G 
    ShopZone – Scalable Distributed E-Commerce Order System
 
 A full-stack MERN-based distributed order processing system designed to handle real-world e-commerce workflows with scalability, modularity, and robust backend architecture.
@@ -91,7 +92,7 @@ Strengthened backend architecture design skills
 Implemented RESTful API best practices
 Gained experience with MERN stack integration
 
-   Author
+   Author : DEEKSHA G
 
 Your Name
 GitHub: https://github.com/YOUR_USERNAME
